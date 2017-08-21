@@ -53,10 +53,13 @@ For more information about this dataset contact: activityrecognition@smartlab.ws
 
 ==============
 
-The goal was create a tidy data set of the standard deviation and mean data, broken down by average value for each subject per activity.
+
 
 Codebook: 
 ======
+
+The goal was create a tidy data set of the standard deviation and mean data, broken down by average value for each subject per activity.
+
 The training sets and test sets are built and variables labeled according to the features.txt file in the data.  The activities
 are named "activityCode" and the subjects "subjectID."  One large data set in built by combining the training and test data sets.  A 
 data set is then built of only the standard deviation and mean data.  A variable for acitivity descriptions is added "activityLabels" whose
