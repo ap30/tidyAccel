@@ -64,5 +64,5 @@ The training sets and test sets are built and variables labeled according to the
 are named "activityCode" and the subjects "subjectID."  One large data set in built by combining the training and test data sets.  A 
 data set is then built of only the standard deviation and mean data.  A variable for acitivity descriptions is added "activityLabels" whose
 values are taken from the activity_labels.txt file.  Finally a table is created with the average value per subject and activityLabel which
-is written as a table to "tidy_accel.txt"
+is written as a table to "tidy_accel.txt" the fields of which are listed in "tidyAccelFeatures.txt"
 
