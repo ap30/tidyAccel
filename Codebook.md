@@ -51,7 +51,7 @@ Notes:
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
-==============
+
 
 
 
